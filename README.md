@@ -65,4 +65,4 @@ pip install opencv-python numpy
 ```
 
 ## **Conclusion**
-his project showcases a real-time tracking system for pedestrians and vehicles, offering a practical approach for traffic monitoring and violation detection. By leveraging image processing and object tracking, it provides an effective tool for studying traffic patterns and enhancing road safety.
+This project showcases a real-time tracking system for pedestrians and vehicles, offering a practical approach for traffic monitoring and violation detection. By leveraging image processing and object tracking, it provides an effective tool for studying traffic patterns and enhancing road safety.

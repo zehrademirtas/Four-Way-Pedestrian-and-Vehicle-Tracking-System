@@ -63,11 +63,8 @@ Ensure you have **Python** installed, along with the necessary dependencies. Ins
 ```bash
 pip install opencv-python numpy
 ```
-## **Project Outputs**
-
-- 
-- (project4.png)
-- (project4.2.png)
-- 
+## Project Outputs
+- ![Output 1](project4.png)
+- ![Output 2](project4.2.png)
 ## **Conclusion**
 This project showcases a real-time tracking system for pedestrians and vehicles, offering a practical approach for traffic monitoring and violation detection. By leveraging image processing and object tracking, it provides an effective tool for studying traffic patterns and enhancing road safety.
